@@ -1,2 +1,4 @@
 # FitLyfe
-Your fit lyfe plan boiled down to an easy to use application built for trainers. 
+
+## Summary
+An easy-to-use application for trainers to keep track of trainees' diet and exercise plans.
